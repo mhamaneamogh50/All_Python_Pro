@@ -4,10 +4,10 @@ def reverse(s):
 
   for i in s: 
 
-    str = i + str
+    str= i + str
 
   return str
 
-s = "Python Skills "
+s="Python Skills "
 
-print (reverse(s)) 
+print(reverse(s)) 
